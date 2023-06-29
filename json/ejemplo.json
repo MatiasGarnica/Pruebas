@@ -1,0 +1,29 @@
+{
+    "llaveString": "Texto",
+    "llave_string": "Texto",
+    "entero": 12,
+    "decimal": 1.2,
+    "booleano": true,
+    "nulo": null,
+    "array": [1,2,3],
+    "objeto": {
+        "nombre": "Ana"
+    },
+    "personas":[
+        {
+            "nombre": "Ana"
+        },
+        {
+            "nombre": "Paco"
+        }
+    ]
+}
+
+[
+    {
+        "nombre": "Ana"
+    },
+    {
+        "nombre": "Paco"
+    }
+]
