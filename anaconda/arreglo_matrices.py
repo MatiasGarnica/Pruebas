@@ -11,3 +11,6 @@ print(matriz)
 
 matriz2 = np.matrix(lista_anidada)
 print(matriz2)
+
+matriz_ceros = np.zeros((2,2))
+print(matriz_ceros)
